@@ -1,4 +1,13 @@
-### Hi there 👋
+# :computer: :argentina: Computer Engineering 
+## :briefcase: Data Scientist at [AFIP](https://www.afip.gob.ar/) and [Quipu Market](https://quipumarket.com/) 
+## :teacher: Teacher at [UNDAV](undav.edu.ar/) 
+
+### :microscope: Computer Vision and Data Science Researcher 
+### :books: Machine Learning and Deep Learning enthusiast 
+### :floppy_disk: Linux lover 
+### :hammer_and_wrench: Developer 
+
+📫 How to reach me: matiasloiseau@gmail.com
 
 <!--
 **MatiasLoiseau/MatiasLoiseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
