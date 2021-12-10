@@ -1,5 +1,6 @@
 # :computer: :argentina: Computer Engineering 
-## :briefcase: Data Scientist at [AFIP](https://www.afip.gob.ar/) and [Quipu Market](https://quipumarket.com/) 
+## :briefcase: Data Scientist at [AFIP](https://www.afip.gob.ar/)
+## Helping in [Quipu Market](https://quipumarket.com/) 
 ## :teacher: Teacher at [UNDAV](undav.edu.ar/) 
 
 ### :microscope: Computer Vision and Data Science Researcher 
