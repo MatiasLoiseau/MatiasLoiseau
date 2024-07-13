@@ -1,6 +1,7 @@
-# :computer: :argentina: Computer Engineering 
-## :briefcase: Data Scientist at [AFIP](https://www.afip.gob.ar/)
-## :teacher: Teacher at [UNDAV](undav.edu.ar/) 
+# :computer: :argentina: Computer Engineer 
+## :briefcase: Data Engineer at [AFIP](https://www.afip.gob.ar/)
+## :teacher: Teacher at [UNDAV](https://undav.edu.ar/index.php?idcateg=64) 
+## 🌱: Currently studying Master in Data Science at [ITBA](https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/)
 
 ### :microscope: Computer Vision and Data Science Researcher 
 ### :books: Machine Learning and Deep Learning enthusiast 
