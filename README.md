@@ -3,7 +3,7 @@
 ## :teacher: Teacher at [UNDAV](https://undav.edu.ar/index.php?idcateg=64) 
 ## 🌱 Currently studying Master in Data Science at [ITBA](https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/)
 
-### :microscope: Computer Vision and Data Science Researcher 
+### :microscope: MLOps and Data Science Researcher 
 ### :books: Machine Learning and Deep Learning enthusiast 
 ### :floppy_disk: Linux lover 
 ### :hammer_and_wrench: Developer 
